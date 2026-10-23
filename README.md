@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33871078/README.md)
 # TN-LAB Office Network — Small Enterprise Network Design (Cisco Packet Tracer)
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
